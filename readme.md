@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Nitiksh and I'm a Web Developer</h2>
 
 ###
 
@@ -34,3 +34,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg"/>
+</div>
