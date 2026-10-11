@@ -1,16 +1,22 @@
-## Hi there 👋
+# Nitiksh Kumar
 
-<!--
-**nitiksh/nitiksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [NTXM](https://ntxm.org). I build free, offline-first software — no accounts, no telemetry, no subscriptions.
 
-Here are some ideas to get you started:
+## Products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[KinoFlux Editor](https://ntxm.org/products/kinoflux/videoeditor/)** — 66 offline tools for video, audio, images, PDFs (Rust, no Electron)
+- **[KinoFlux Player](https://ntxm.org/products/kinoflux/videoplayer/)** — offline-first 4K video player
+- **[TypeMaster](https://typemaster.ntxm.org)** — learn typing by retyping classic books
+- **[Whisper Studio](https://www.ntxm.org/products/kinoflux/whisperstudio/)** — offline speech transcription
+- **[SQL Studio](https://www.ntxm.org/products/techxcelerate/sql-studio/)** — local-first database IDE
+- **[NTXM Agent](https://www.ntxm.org/products/techxcelerate/ntxm-agent/)** — desktop AI agent
+
+All 13 products at [ntxm.org](https://ntxm.org).
+
+## Stack
+
+Rust · Python · TypeScript · React · Tauri
+
+## Contact
+
+CONTACT@NTXM.ORG
